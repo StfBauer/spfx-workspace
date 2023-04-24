@@ -3,5 +3,8 @@
     "workspaces": [
         "webpart247",
         "some-style"
-    ]
+    ],
+    "scripts": {
+        "start": "npm run serve --workspace347"
+    }
 }
