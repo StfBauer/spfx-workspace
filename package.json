@@ -1,0 +1,7 @@
+{
+    "name": "myspfx-solutions",
+    "workspaces": [
+        "webpart247",
+        "some-style"
+    ]
+}
