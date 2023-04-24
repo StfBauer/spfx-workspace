@@ -5,6 +5,6 @@
         "some-style"
     ],
     "scripts": {
-        "start": "npm run serve --workspace347"
+        "start": "npm run start -w webpart247"
     }
 }

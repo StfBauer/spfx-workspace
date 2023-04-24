@@ -16,11 +16,3 @@ NPM install create node modules directly from the root folder. There will be no 
 # from webpart247 folder run gulp serve
 webpart247$ gulp serve
 ```
-
-Another option is run directly from the root folder:
-
-```bash
-npm start
-```
-
-This will also execute `gulp serve` directly from the webpart347 folder.
